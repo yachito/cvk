@@ -5,15 +5,7 @@
 <p align="center">
   Made with ❤️ by <a href="https://www.facebook.com/KM39453">YayanXD_</a>
 </p>
-<p align="center">
- 
-### menu
- <img src="https://github.com/Yayan-XD/ymbf/blob/main/.ppk/carbon.png" width="640" title="Menu" alt="Menu">
-</p>
-
-#### Results
- <img src="https://github.com/Yayan-XD/ymbf/blob/main/.ppk/hasil.jpg" width="640" title="Menu" alt="Menu">
-</p>
+<p align="center"
 
 ###### notice me: if you get cp results, save 3/7 days then log in.
 
